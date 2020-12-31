@@ -1,3 +1,3 @@
-# Python Course Files
+# Python Course Exercise Files
 
-This is a repo of the exercise files for my python course.
+This is a repo for the exercise files for a python course i took.
